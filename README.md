@@ -1,4 +1,4 @@
-# WCCI2020-AIREA.github.io
+# WCCI2020-AIREA
 AIREA - Special Session @ WCCI2020
 
 wcci2020.org
