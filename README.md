@@ -1,11 +1,7 @@
-# WCCI2020-AIREA
+# IEEE WCCI2020 (wcci2020.org)
 AIREA - Special Session @ WCCI2020
 
-wcci2020.org
-
-Proposal for Special Session @ WCCI2020
-
- 1. Title for the Special Session
+1. Title for the Special Session
 AI in Reliability Engineering and Applications (AIREA)
 
 2. Aims 
