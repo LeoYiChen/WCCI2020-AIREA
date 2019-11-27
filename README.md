@@ -78,7 +78,7 @@ Kent Business School, University of Kent, Canterbury, CT2 7FS. s.m.wu@kent.ac.uk
 
 Shaomin Wu is currently Programme Director for the MSc Business Analytics and coordinates the Student Implant Scheme. He received his PhD and MSc in Applied Statistics. Professor Wu serves on the editorial board of several journals, including IISE Transactions, Reliability Engineering and System Safety, and IMA Journal of Management Mathematics. He has co-chaired 3 international conferences, has been invited to act as scientific committee members by more than 18 international conferences has edited 3 special issues, has been invited to review research proposals for four countries, and has published over 60 papers in academic journals. Professor Wu has also won research funding from the EPSRC as the PI and a Co-I, respectively. He is currently undertaking a research project funded by the ESRC as a co-investigator.
 
-**5. A proposed timeline and schedule which includes:**
+**5.Important Dates:**
 
 15 Jan 2020      Paper Submission Deadline
 
@@ -90,6 +90,6 @@ Shaomin Wu is currently Programme Director for the MSc Business Analytics and co
 
 ***
 
-**6. Submission **
+**6. Submission**
 
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
