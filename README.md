@@ -19,37 +19,37 @@ The special issue includes theoretical, numerical, and experimental contribution
 
 Potential topics include, but are not limited to:
 
-methods for reliability and probabilistic safety assessment; 
+* methods for reliability and probabilistic safety assessment; 
 
-model and parameter uncertainties; 
+* model and parameter uncertainties; 
 
-aleatory and epistemic uncertainties, sensitivity analysis, data collection and analysis; 
+* aleatory and epistemic uncertainties, sensitivity analysis, data collection and analysis; 
 
-engineering judgement and expert opinions; 
+* engineering judgement and expert opinions; 
 
-human reliability; test and maintenance policies; 
+* human reliability; test and maintenance policies; 
 
-models for ageing and life extension; 
+* models for ageing and life extension; 
 
-systems analysis of the impact of earthquakes, fires, tornadoes, winds, floods, etc.; 
+* systems analysis of the impact of earthquakes, fires, tornadoes, winds, floods, etc.; 
 
-codes, standards and safety criteria; 
+* codes, standards and safety criteria; 
 
-operator decision support systems; 
+* operator decision support systems; 
 
-software reliability; 
+* software reliability; 
 
-methods and applications of automatic fault detection and diagnosis; 
+* methods and applications of automatic fault detection and diagnosis; 
 
-dynamic reliability; 
+* dynamic reliability; 
 
-design and evaluation of man machine systems and human interfaces; 
+* design and evaluation of man machine systems and human interfaces; 
 
-design innovation for safety and reliability; 
+* design innovation for safety and reliability; 
 
-safety culture; 
+* safety culture; 
 
-accident investigation and management. 
+* accident investigation and management. 
 
 **4. Organisers**
 
@@ -93,3 +93,4 @@ Shaomin Wu is currently Programme Director for the MSc Business Analytics and co
 **6. Submission**
 
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
+***
