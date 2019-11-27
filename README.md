@@ -90,3 +90,6 @@ Shaomin Wu is currently Programme Director for the MSc Business Analytics and co
 
 ***
 
+**6. Submission **
+
+Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
