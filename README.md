@@ -1,7 +1,8 @@
 ### IEEE WCCI2020 Special Session - AI in Reliability Engineering and Applications (AIREA)
 
-wcci2020.org
+https://wcci2020.org/cross-disciplinary-applications-sessions/ 
 
+@ wcci2020.org
 
 **1. Title:**
 
