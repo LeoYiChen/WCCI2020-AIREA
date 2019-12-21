@@ -53,8 +53,7 @@ School of Mechanical Engineering, Chongqing University of Technology, No. 69, Ho
 
 Jun Ding received the B.Sc degree in Automotive Engineering from Chongqing University of Technology, in 2000, the M. Sc degree in Solid Mechanics from Chongqing University, in 2004, and the Ph. D. degree in Mechanical Engineering from Chonnam University, South Korea, in 2009. Now he is a full professor at the school of Mechanical Engineering in Chongqing University of Technology. His research areas cover Kinematic and Dynamics in Robotics, Robotics and Autonomous Systems, Multiscale Numerical Simulation Technology, Deep Learning and Big Data, and Multi-objective Optimisation for Design and Manufacturing. Dr Ding has also published over 60 journal papers and presided over 10 projects including 2 NSFC (China). Besides, he is an editorial board member, and he has been a guest editor for three special issues.
 
-**_3)Chenguang An**
-
+**_4)Chenguang An_**
 Huadian Yuntong Power Technology Co.,ltd, Beijing, 100069, China. goodmorning_china@163.com 
 
 Chenguang An received the B.Sc degree in Electronic Information Science and Technology from Central South University in 2005, the M.Sc degree in Physical Electronics in 2008. He has devoted himself to research the Smart Grid technology and application. He had developed the transformer on line monitoring equipment, the on line monitoring device unified platform system in 1000kV sub-station. Besides, he had conducted the research the wireless recognize the readings of traditional mechanical meter through AI method which had been put into operation in more than 10 substations. He is the leader of combine the AI technical with the high voltage substation monitoring which make up new generation smart substation especially in 1000kV AC substation and ±800kV DC converter station. He is a member of IET and he is Charted Engineer. He had published more than 10 papers and own 8 patent for innovation and 20 utility models. He is the Chief Manager of Market Strategy Department and an enterprise mentor for master student of Central South University. 
@@ -96,6 +95,7 @@ Following postdoctoral and academic positions at the Universities of West of Sco
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
 
 ***
+
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pfm3ngryqD1w7asx1_540.jpg)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_psdieapOdv1vvczb6o1_1280.jpg)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pt9ag1Rrav1vvczb6o1_1280.jpg)
