@@ -101,6 +101,8 @@ Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
 
 Select ** SC05. AI in Reliability Engineering and Applications (AIREA)**
 
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/SC05.jpg)
+
 ***
 
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/UoG.jpg)
