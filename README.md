@@ -81,7 +81,7 @@ Shaomin Wu is currently Programme Director for the MSc Business Analytics and co
 
 **5. Important Dates:**
 
-15 Jan 2020      Paper Submission Deadline
+30 Jan 2020      Paper Submission Deadline
 
 15 Mar 2020     Paper Acceptance Notification Date
 
